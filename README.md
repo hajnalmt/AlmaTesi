@@ -6,13 +6,13 @@ The Application is made with Qt 5.5.1, Compiler: MinGW 32 bit.
 Additional import Packages: QtQuick 2.5; QtQuick.Controls 1.4; QtQuick.Layouts 1.2
 
 Specifications:
--Menubar with sport artifacts
--Menubar on the left side with physical education menu Eg: Atlétika->
--Menu item hierarchy: dobó, ugró-> magas, távol, ugróiskola, futó->futóiskola
--Menu item ending click -> Buttoms with exercises.
--Buttom click -> Images with the exercises.
--Last Menu, Basic exercises
--Click on Basic Exercises -> Many buttoms with excercies, Click on button -> Images 
+*Menubar with sport artifacts
+*Menubar on the left side with physical education menu Eg: Atlétika->
+*Menu item hierarchy: dobó, ugró-> magas, távol, ugróiskola, futó->futóiskola
+*Menu item ending click -> Buttoms with exercises.
+*Buttom click -> Images with the exercises.
+*Last Menu, Basic exercises
+*Click on Basic Exercises -> Many buttoms with excercies, Click on button -> Images 
 
 
 -Search bar: Own excercise serie. A ground line, which on the lil stickhumans will go after an other.
