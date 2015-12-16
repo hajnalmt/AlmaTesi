@@ -7,3 +7,19 @@ Additional import Packages: QtQuick 2.5; QtQuick.Controls 1.4; QtQuick.Layouts 1
 
 Specifications:
 -Menubar with sport artifacts
+-Menubar on the left side with physical education menu Eg: Atlétika->
+-Menu item hierarchy: dobó, ugró-> magas, távol, ugróiskola, futó->futóiskola
+-Menu item ending click -> Buttoms with exercises.
+-Buttom click -> Images with the exercises.
+-Last Menu, Basic exercises
+-Click on Basic Exercises -> Many buttoms with excercies, Click on button -> Images 
+
+
+-Search bar: Own excercise serie. A ground line, which on the lil stickhumans will go after an other.
+-An input field required under the ground line for each image. To get the tempo number.
+
+-Terem menu on the upside menubar.
+-If it's possible make an English version of the application
+
+
+
